@@ -1,0 +1,38 @@
+{
+  "name": "eslint-config-shuli",
+  "version": "1.0.0",
+  "description": "ESLint shareable config for the Shuli JavaScript style guide.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shuli-FE/eslint-config-shuli.git"
+  },
+  "keywords": [
+    "Shuli-FE",
+    "eslint",
+    "eslintrc",
+    "eslintconfig",
+    "code style",
+    "linter",
+    "styleguide",
+    "vue"
+  ],
+  "author": "Shuli-FE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shuli-FE/eslint-config-shuli/issues"
+  },
+  "homepage": "https://github.com/Shuli-FE/eslint-config-shuli#readme",
+  "peerDependencies": {
+    "eslint": ">=4.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.12.0"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-shuli",
+  "name": "eslint-config-shulidata",
   "version": "1.1.0",
   "description": "ESLint shareable config for the Shuli JavaScript Style Guide.",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shuli-FE/eslint-config-shuli.git"
+    "url": "git+https://github.com/Shuli-FE/eslint-config-shulidata.git"
   },
   "keywords": [
     "Shuli-FE",
@@ -26,9 +26,9 @@
   "author": "Shuli-FE",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Shuli-FE/eslint-config-shuli/issues"
+    "url": "https://github.com/Shuli-FE/eslint-config-shulidata/issues"
   },
-  "homepage": "https://github.com/Shuli-FE/eslint-config-shuli#readme",
+  "homepage": "https://github.com/Shuli-FE/eslint-config-shulidata#readme",
   "peerDependencies": {
     "eslint": ">=4.12.0"
   },

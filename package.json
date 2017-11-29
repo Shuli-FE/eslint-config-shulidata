@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-shuli",
-  "version": "1.0.0",
-  "description": "ESLint shareable config for the Shuli JavaScript style guide.",
+  "version": "1.1.0",
+  "description": "ESLint shareable config for the Shuli JavaScript Style Guide.",
   "main": "index.js",
   "scripts": {
     "test": "node test/test.js"
@@ -30,9 +30,9 @@
   },
   "homepage": "https://github.com/Shuli-FE/eslint-config-shuli#readme",
   "peerDependencies": {
-    "eslint": ">=4.1.1"
+    "eslint": ">=4.12.0"
   },
   "devDependencies": {
-    "eslint": "^4.12.0"
+    "eslint": "4.12.0"
   }
 }

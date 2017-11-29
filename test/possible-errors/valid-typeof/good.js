@@ -1,0 +1,1 @@
+typeof foo === "string"typeof bar == "undefined"typeof bar === typeof quxtypeof foo === "undefined"typeof bar == "object"typeof baz === "string"typeof bar === typeof qux

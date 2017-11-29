@@ -1,0 +1,1 @@
+typeof foo === "strnig"typeof foo == "undefimed"typeof bar != "nunber"typeof bar !== "fucntion"typeof foo === "undefined"typeof bar == "object"typeof baz === "string"typeof bar === typeof qux

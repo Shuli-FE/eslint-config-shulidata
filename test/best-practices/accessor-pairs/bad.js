@@ -1,0 +1,1 @@
+var o = {	set a(value) {		this.val = value;	}};var o = {	get a() {		return this.val;	}};

@@ -1,1 +1,1 @@
-module.exports = {	rules: {}};
+module.exports = {	rules: {		// @fixable 禁止使用 'strict';		'strict': ['off']	}};

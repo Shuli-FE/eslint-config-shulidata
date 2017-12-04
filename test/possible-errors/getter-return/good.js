@@ -1,1 +1,1 @@
-let p = {	get name() {		return 'nicholas';	}};Object.defineProperty(p, 'age', {	get: function() {		return 18;	}});class P {	get name() {		return 'jizhi.w056';	}}
+class Person {	get name() {		return 'nicholas';	}}Object.defineProperty(Person, 'age', {	get: function() {		return 18;	}});console.log(Person);

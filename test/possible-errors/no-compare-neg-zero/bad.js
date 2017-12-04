@@ -1,1 +1,1 @@
-if (x === -0) {	// doSomething()...}
+let x = 123;if (x === -0) {	// doSomething()...}

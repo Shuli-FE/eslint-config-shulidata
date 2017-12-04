@@ -1,1 +1,1 @@
-if (x === 0) {	// doSomething()...}if (Object.is(x, -0)) {	// doSomething()...}
+let x = 123;if (x === 0) {	// doSomething()...}if (Object.is(x, -0)) {	// doSomething()...}

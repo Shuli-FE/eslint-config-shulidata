@@ -1,1 +1,1 @@
-module.exports = {	extends: ['../index.js']};
+module.exports = {	extends: ['../index.js'],	env:{		commonjs: true	}};

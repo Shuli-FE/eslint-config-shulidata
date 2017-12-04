@@ -1,0 +1,1 @@
+let abc = 'abc';if (abc == null) {	console.log('eqeqeq null');}

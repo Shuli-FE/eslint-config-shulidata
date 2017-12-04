@@ -1,1 +1,1 @@
-p = {	get name(){		// no returns.	}};Object.defineProperty(p, "age", {	get: function (){		// no returns.	}});class P{	get name(){		// no returns.	}}
+class Person {	get name() {		// disallows implicitly returning undefined with a return; statement.		return;	}}Object.defineProperty(Person, 'age', {	get: function() {		// no returns.	}});

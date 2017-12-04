@@ -1,1 +1,1 @@
-// 默认选项 "except-parens" 的 错误 代码示例var x;if (x = 0) {	var b = 1;}// Practical example that is similar to an errorfunction setHeight(someNode) {	"use strict";	do {		someNode.height = "100px";	} while (someNode = someNode.parentNode);}
+// Unintentional assignmentlet x,	b;if (x = 0) {	b = 1;}// Practical example that is similar to an errorfunction setHeight(someNode) {	'use strict';	do {		someNode.height = '100px';	} while (someNode = someNode.parentNode);}

@@ -1,0 +1,1 @@
+if('abc' == 123){	console.log('eqeqeq incorrect');}

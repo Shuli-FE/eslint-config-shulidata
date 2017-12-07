@@ -7,4 +7,5 @@ branches:
 install:
 - npm install
 script:
-- npm test
+- npm test:base
+- npm test:vue

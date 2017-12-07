@@ -1,10 +1,10 @@
 {
   "name": "eslint-config-shulidata",
-  "version": "2.1.6",
+  "version": "2.2.0",
   "description": "ESLint shareable config for the Shuli JavaScript Style Guide.",
   "main": "index.js",
   "scripts": {
-    "test:base": "node test"
+    "test": "node test"
   },
   "engines": {
     "node": ">=0.10.0"

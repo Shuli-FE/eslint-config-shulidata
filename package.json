@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-shulidata",
-  "version": "2.3.4",
+  "version": "2.3.5",
   "description": "ESLint shareable config for the Shuli JavaScript Style Guide.",
   "main": "index.js",
   "scripts": {
